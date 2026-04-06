@@ -1,4 +1,4 @@
-package praktilum5web.controller;
+package praktilum5web.deploy.controller;
 
 import org.springframework.ui.Model;
 import org.springframework.stereotype.Controller;
